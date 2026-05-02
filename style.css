@@ -16,7 +16,8 @@ header{
 }
 /* NAVBAR */
 .navbar{
-    display: flex;
+    position:fixed;top:0;left:o;
+    width:100%;z-index:1000;
     justify-content: space-between;
     padding: 20px 60px;
     background: purple;
